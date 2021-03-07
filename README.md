@@ -12,7 +12,7 @@
   </li>
   <li><h3>-n : it shows numerals on each line from the content of specified files</h3>
     <div align="center">
-  <img src = "https://user-images.githubusercontent.com/48654802/110246361-5221df80-7f8d-11eb-9ce7-c5d53f333276.png" alt="img">
+  <img src = "https://user-images.githubusercontent.com/48654802/110246635-5f8b9980-7f8e-11eb-8734-7a3a88841edf.png" alt="img">
 </div>
 
   </li>
