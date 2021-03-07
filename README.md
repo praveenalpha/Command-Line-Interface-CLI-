@@ -30,6 +30,13 @@
 </div>
 
   </li>
+  <li><h3>-a : append second file with content of first file</h3>
+    <div align="center">
+  <img src = "https://user-images.githubusercontent.com/48654802/110247686-7680ba80-7f93-11eb-80ad-eb8c2f6f9506.png" alt="img">
+</div>
+
+  </li>
+
 
 
 </ul>
