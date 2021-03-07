@@ -36,8 +36,7 @@
 </div>
 
   </li>
-
-
-
 </ul>
+
+<h3>feel free to use multiple commands simultaneously</h3>
 
