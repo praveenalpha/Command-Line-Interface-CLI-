@@ -6,6 +6,7 @@
 <ul>
   <li><h3>-s : it shows content of your file and removes any empty line</h3></li>
 </ul>
-<img src = "https://user-images.githubusercontent.com/48654802/110244833-a1184680-7f86-11eb-82e1-7c8662b62faa.png" alt="img">
-![img1](https://user-images.githubusercontent.com/48654802/110244833-a1184680-7f86-11eb-82e1-7c8662b62faa.png)
+<div align="center">
+  <img src = "https://user-images.githubusercontent.com/48654802/110246361-5221df80-7f8d-11eb-9ce7-c5d53f333276.png" alt="img">
+</div>
 
