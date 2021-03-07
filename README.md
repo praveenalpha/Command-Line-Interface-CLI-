@@ -17,5 +17,13 @@
 
   </li>
   
+  <li><h3>-b : it shows numerals on each line which has some content, all empty lines are ignored</h3>
+    <div align="center">
+  <img src = "https://user-images.githubusercontent.com/48654802/110246884-71ba0780-7f8f-11eb-9225-f5e22869f6c7.png" alt="img">
+</div>
+
+  </li>
+  
+
 </ul>
 
