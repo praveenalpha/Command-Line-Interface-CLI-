@@ -24,6 +24,13 @@
 
   </li>
   
+  <li><h3>-w : overwrited second file with content of first file</h3>
+    <div align="center">
+  <img src = "https://user-images.githubusercontent.com/48654802/110247539-bc894e80-7f92-11eb-91f2-b3724787974e.png" alt="img">
+</div>
+
+  </li>
+
 
 </ul>
 
