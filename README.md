@@ -4,5 +4,8 @@
 
 <h2>commands:</h2>
 <ul>
-  <li><h3>-s : it shows content of your file and removes any empty line</h3></li>
+  <li><h3>-s : it shows content of your file and removes any empty line</h3>
+    <video> 
+      <source src="/vids/file-w.mp4" type = "">
+    </video></li>
 </ul>
