@@ -1,4 +1,4 @@
-<div align="center"><h1> Command Line Interface (WCAT CLI) <h1></div>
+<div align="center"><h1> Command Line Interface {WCAT CLI} <h1></div>
 
 <h2>wcat command runs on terminal for viewing files and copying contents of one file to another</h2>
 
